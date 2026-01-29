@@ -12,3 +12,7 @@
         {
             color: red;
         }
+        .lista-produtos li::marker
+        {
+            content: "👍 ";
+        }
